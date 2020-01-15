@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.example.tabrisapp01" version="0.1.0">
-  <name>TabrisAPP01</name>
+<widget id="com.ebrainzone.library" version="0.1.0">
+  <name>Library</name>
   <description>
-    Example Tabris.js App
+    Library App
   </description>
-  <author email="john@example.org">
-    John Smith
+  <author email="brendon@ebrainzone.com">
+    Brendon
   </author>
   <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
 </widget>

@@ -9,6 +9,7 @@
     "start": "tabris serve -a -w"
   },
   "dependencies": {
+    "q": "^1.5.1",
     "tabris": "~3.2.1"
   },
   "devDependencies": {
